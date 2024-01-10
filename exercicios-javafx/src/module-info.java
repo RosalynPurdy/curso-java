@@ -7,4 +7,4 @@ module exericiosfx {
 	opens layout;
 	opens fxml;
 	opens calculadora;
-}
+} 
